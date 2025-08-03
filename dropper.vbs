@@ -1,0 +1,1 @@
+﻿MsgBox "ClickFix test executed via VBS.", vbInformation, "VBS Dropper"
