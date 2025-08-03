@@ -1,0 +1,1 @@
+﻿WScript.Echo("ClickFix test executed via JS."); // or use ActiveX shell popup for GUI
